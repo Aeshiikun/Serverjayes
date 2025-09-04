@@ -1,6 +1,22 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "formidable": "^3.5.4",
     "multer": "^2.0.2"
+=======
+  "name": "file-serving-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mime": "^4.0.7",
+    "mime-types": "^3.0.1"
+>>>>>>> e0a2dc9c6627c36f7dd3574475e7938d49481eb0
   }
 }
